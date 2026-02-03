@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempest Federation</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #0b0e14; color: white; padding: 15px; margin: 0; }
+        .header { text-align: center; padding: 20px 0; border-bottom: 2px solid #1a202c; margin-bottom: 20px; }
+        .section-title { font-size: 13px; color: #00d4ff; text-transform: uppercase; margin: 25px 0 12px; font-weight: bold; letter-spacing: 1px; }
+        .grid { display: grid; gap: 12px; }
+        .btn { display: flex; align-items: center; background: #161b22; border: 1px solid #30363d; border-radius: 16px; padding: 12px; text-decoration: none; color: white; transition: 0.3s; }
+        .btn:hover { background: #1f2937; border-color: #00d4ff; transform: translateY(-2px); }
+        .btn img { width: 50px; height: 50px; border-radius: 12px; margin-right: 15px; object-fit: cover; border: 1px solid #30363d; }
+        .name { font-weight: bold; font-size: 16px; display: block; }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1 style="margin:0; color:#00d4ff; font-size: 24px;">Tempest Hub</h1>
+    <p style="margin:5px 0 0; color:#8899a6;">Lord Rimiru's Dashboard</p>
+</div>
+
+<div class="section-title">🤖 The Executives (Bots)</div>
+<div class="grid">
+    <a href="https://t.me/tojixmarin_bot" class="btn">
+        <img src="https://raw.githubusercontent.com/ia7046341-collab/TEMPEST-MINI-APP/main/IMG_20260203_092443_085.jpg">
+        <span class="name">Toji X Marin</span>
+    </a>
+    <a href="https://t.me/hentai_tempest_bot" class="btn">
+        <img src="https://raw.githubusercontent.com/ia7046341-collab/TEMPEST-MINI-APP/main/IMG_20260203_092450_485.jpg">
+        <span class="name">Hentai Bot</span>
+    </a>
+    <a href="https://t.me/Tempestuploding_bot" class="btn">
+        <img src="https://raw.githubusercontent.com/ia7046341-collab/TEMPEST-MINI-APP/main/IMG_20260203_092553_335.jpg">
+        <span class="name">Tempest Uploader</span>
+    </a>
+</div>
+
+<div class="section-title">📢 Broadcast (Channels)</div>
+<div class="grid">
+    <a href="https://t.me/TEMPEST_MAIN" class="btn">
+        <img src="https://raw.githubusercontent.com/ia7046341-collab/TEMPEST-MINI-APP/main/1770030207206.png">
+        <span class="name">TEMPEST MAIN</span>
+    </a>
+    <a href="https://t.me/+zlPvYrqHaZU4YTdl" class="btn">
+        <img src="https://raw.githubusercontent.com/ia7046341-collab/TEMPEST-MINI-APP/main/1770030275027.png">
+        <span class="name">TEMPEST BACKUP</span>
+    </a>
+    <a href="https://t.me/+BsibgbLhN48xNDdl" class="btn">
+        <img src="https://raw.githubusercontent.com/ia7046341-collab/TEMPEST-MINI-APP/main/IMG_20260203_090720_821.jpg">
+        <span class="name">HENTAI TEMPEST</span>
+    </a>
+</div>
+
+<div class="section-title">👥 Group</div>
+<div class="grid">
+    <a href="https://t.me/+PanUv9-TO8cyNzhl" class="btn">
+        <img src="https://raw.githubusercontent.com/ia7046341-collab/TEMPEST-MINI-APP/main/IMG_20260203_092553_335.jpg">
+        <span class="name">ANIME PROVIDING GROUP</span>
+    </a>
+</div>
+
+</body>
+</html>
